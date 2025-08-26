@@ -70,7 +70,7 @@
 17. Проведите повторную сборку мастера, убедитесь, что сбора прошла успешно и артефакты собраны.
 
 ![alt text](https://github.com/Mars12121/09-ci-05-teamcity/tree/master/img/14.png)
-![alt text](https://github.com/Mars12121/08-ansible-01-base/blob/main/img/1.png)
+![alt text](https://github.com/Mars12121/hw-11-02/blob/main/img/1.png)
 
 18. Проверьте, что конфигурация в репозитории содержит все настройки конфигурации из teamcity.
 19. В ответе пришлите ссылку на репозиторий.
